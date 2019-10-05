@@ -16,7 +16,7 @@ function validateForm() {
 	   return false;
    }
   else {
-	  //don't need to return true if condition is assumed true
+	  //don't need to return true if condition is assumed true.
 	  alert("Success!");
   }
   
